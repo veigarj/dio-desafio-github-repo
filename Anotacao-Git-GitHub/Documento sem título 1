@@ -1,0 +1,24 @@
+Anotacoes das aulas de Git/GitHub
+
+Repositório Local
+
+Novo criar recurso
+- git init
+
+Verificar estado dos arquivos/diretórios
+- git status
+
+Adicionar arquivo/diretório (área encenada)
+
+-git add meu_arquivo.txt
+
+
+Comitar arquivo/diretório
+
+- git commit meu_arquivo
+
+Comitar informando mensagem
+
+- git commit meuarquivo.txt -m "minha mensagem de commit"
+
+
